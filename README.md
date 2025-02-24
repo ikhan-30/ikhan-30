@@ -1,4 +1,4 @@
-## Hi there 👋
+ikhan-30.github.io
 
 <!--
 **ikhan-30/ikhan-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
